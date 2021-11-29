@@ -1,5 +1,5 @@
 # Product Description:
-The high-power Raspberry Pi MOSFET Hat is designed as an IO expander for actuating larger DC devices (e.g. heaters and larger motors/pumps/valves). Each board can control up to 4 devices. The module uses I2C as the communication protocol enabling up to 8 boards to be used at once (i.e. 32 devices can be controlled simultaneously)!
+The [high-power Raspberry Pi MOSFET Hat](https://synbiostudio.com/products/raspberry-pi-mosfet-hat-dc-motor-driver-board-4-high-power-mosfets-per-board) is designed as an IO expander for actuating larger DC devices (e.g. heaters and larger motors/pumps/valves). Each board can control up to 4 devices. The module uses I2C as the communication protocol enabling up to 8 boards to be used at once (i.e. 32 devices can be controlled simultaneously)!
 
 # Warning:
 Do not use devices that draw over 100 W per MOSFET. At 12 V this would be about 8.3 A per device. (Note: a low-power version of this board is also available, which can control up to 8 devices per board, but can only handle 8 W per MOSFET).
